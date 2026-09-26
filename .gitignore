@@ -1,0 +1,6 @@
+# Dependencies and System Files
+.DS_Store
+Thumbs.db
+*.log
+__pycache__/
+.env
